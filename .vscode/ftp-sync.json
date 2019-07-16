@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/bot/",
+    "host": "23.94.53.246",
+    "username": "root",
+    "password": "A9l0objZudcmslq9!",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "/home/bot/node_modules/",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
